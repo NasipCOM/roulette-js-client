@@ -7,7 +7,7 @@ class Header extends Component {
   render() {
     return (
       <div className="header">
-        <div className="pic">
+        <div>
           <img src={logo} alt="" />
         </div>
         <div className="dropdown">
